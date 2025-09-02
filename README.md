@@ -26,4 +26,10 @@ Employees can log in separately to view their tasks, update progress, and manage
 
 ---
 
-## 📂 Project Structure
+## ⚙️ How to Download & Run
+
+### 🔹 Option 1: GitHub Clone (Recommended)
+1. Open terminal and clone the repository:
+   ```bash
+   git clone https://github.com/your-username/admin-employee-dashboard.git
+
